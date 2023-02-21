@@ -227,6 +227,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+> Microverse for providing the resources
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
