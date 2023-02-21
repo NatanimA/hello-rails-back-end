@@ -116,7 +116,7 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
-- git clone https://github.com/NatanimA/hello-react-front-end
+- git clone https://github.com/NatanimA/hello-rails-back-end/
 
 ### Prerequisites
 
@@ -130,7 +130,7 @@ React
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/NatanimA/hello-react-front-end
+git clone https://github.com/NatanimA/hello-rails-back-end/
 ```
 
 
@@ -145,7 +145,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```
-git clone  https://github.com/NatanimA/hello-react-front-end
+git clone  https://github.com/NatanimA/hello-rails-back-end/
 ```
 ```
 npm install
